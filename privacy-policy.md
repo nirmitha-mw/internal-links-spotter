@@ -17,9 +17,9 @@ This extension does not track user behavior, gather analytics, or transmit data 
 
 The extension requires the following Chrome permissions:
 
-- **activeTab**: Used to access the currently open tab when the user interacts with the extension.
-- **scripting**: Used to inject scripts that detect and highlight internal links.
-- **<all_urls>**: Required to analyze links on any website the user visits.
+- `activeTab`: Used to access the currently open tab when the user interacts with the extension.
+- `scripting`: Used to inject scripts that detect and highlight internal links.
+- `<all_urls>`: Required to analyze links on any website the user visits.
 
 These permissions are used **only for the core functionality** of the extension (i.e., detecting and highlighting internal links). No data is collected or shared as a result of these permissions.
 
