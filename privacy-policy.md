@@ -1,6 +1,6 @@
 # Privacy Policy for Internal Links Spotter
 
-**Effective Date:** 2025-May-17
+**Effective Date:** 2025-May-18
 
 Internal Links Spotter is a Chrome Extension designed to help users visually identify internal links on any webpage. We value your privacy and are committed to protecting it.
 
